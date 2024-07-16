@@ -1,4 +1,10 @@
 # Sudoku Solver
-This is a Python-based Sudoku Solver and Puzzle Generator program.
-# 
-This program allows you to generate new Sudoku puzzles with different difficulty levels or enter your own puzzles for solving. The solver uses a backtracking algorithm to find a valid solution to the puzzle.
+
+Sudoku Solver is a Python program that allows you to generate Sudoku puzzles, solve them, and play interactively. It uses backtracking algorithm to solve the puzzles and offers options to generate new puzzles or input your own.
+
+## Features
+
+- **Generate Sudoku:** Automatically generates Sudoku puzzles of varying difficulties (Easy, Medium, Hard).
+- **Solve Sudoku:** Solves the generated or user-input Sudoku puzzles using a backtracking algorithm.
+- **Interactive Play:** Allows users to enter their own Sudoku puzzles and solve them interactively.
+- **Difficulty Levels:** Offers three difficulty levels for generated puzzles: Easy, Medium, and Hard.
